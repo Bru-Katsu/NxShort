@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NxShort", "NxShort\NxShort.csproj", "{3ACF44CE-A469-4155-984B-8D7DE9B08224}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NxShort.Domain", "NxShort.Domain\NxShort.Domain.csproj", "{7D2A1C7F-32B1-443F-AF78-E51CDC32B46F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ACF44CE-A469-4155-984B-8D7DE9B08224}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ACF44CE-A469-4155-984B-8D7DE9B08224}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ACF44CE-A469-4155-984B-8D7DE9B08224}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ACF44CE-A469-4155-984B-8D7DE9B08224}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D2A1C7F-32B1-443F-AF78-E51CDC32B46F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D2A1C7F-32B1-443F-AF78-E51CDC32B46F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D2A1C7F-32B1-443F-AF78-E51CDC32B46F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D2A1C7F-32B1-443F-AF78-E51CDC32B46F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22BD5791-73AA-4683-832D-1DDF0712C3CD}
+	EndGlobalSection
+EndGlobal
